@@ -1,9 +1,8 @@
-# _config.yml
-
-theme: jekyll-theme-cayman
 title: Filip Švehla
 email: filip@svehla.cloud
 description: >- 
-  Oficiální web Filipa Švehly, mladého tradera a mentora
-baseurl: "" # pokud je to na hlavní doméně
+  Oficiální web Filipa Švehly, mladého tradera a mentora.
+baseurl: "" # pokud bude na kořeni domény (např. svehla.cloud)
 url: "https://svehla.cloud"
+
+theme: jekyll-theme-cayman
