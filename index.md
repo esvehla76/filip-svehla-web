@@ -6,12 +6,12 @@ title: Domů
 
 Trader | Mentor | Měním přístup k penězům mladé generace
 
-- [Domů](/filip-svehla-web/)
-- [O mně](/filip-svehla-web/about)
-- [Můj merge](/filip-svehla-web/merge)
-- [Trading](/filip-svehla-web/trading)
-- [Videa](/filip-svehla-web/media)
-- [Kontakt](/filip-svehla-web/contact)
+- [Domů](/)
+- [O mně](/about)
+- [Můj merge](/merge)
+- [Trading](/trading)
+- [Videa](/media)
+- [Kontakt](/contact)
 
 ---
 
