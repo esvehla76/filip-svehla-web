@@ -1,0 +1,11 @@
+# _config.yml
+
+```
+theme: jekyll-theme-cayman
+title: Filip Švehla
+email: filip@svehla.cloud
+description: >- 
+  Oficiální web Filipa Švehly, mladého tradera a mentora
+baseurl: "" # pokud je to na hlavní doméně
+url: "https://svehla.cloud"
+``
