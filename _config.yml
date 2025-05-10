@@ -2,6 +2,6 @@ title: Filip Švehla
 email: filip@svehla.cloud
 description: >-
   Oficiální web Filipa Švehly, mladého tradera a mentora
-baseurl: "/filip-svehla-web" # název repozitáře
-url: "https://esvehla76.github.io"
+baseurl: ""  # žádný podadresář
+url: "https://svehla.cloud"
 theme: jekyll-theme-cayman
