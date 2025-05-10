@@ -8,6 +8,7 @@ Trader | Mentor | Měním přístup k penězům mladé generace
 
 - [Domů](/filip-svehla-web/)
 - [O mně](/filip-svehla-web/about)
+- [Můj merge](/filip-svehla-web/merge)
 - [Trading](/filip-svehla-web/trading)
 - [Videa](/filip-svehla-web/media)
 - [Kontakt](/filip-svehla-web/contact)
